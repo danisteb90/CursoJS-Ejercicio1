@@ -1,0 +1,16 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de JS con Node en OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node saludo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firstproject",
+    "saludo"
+  ],
+  "author": "Esteban Alban",
+  "license": "ISC"
+}
